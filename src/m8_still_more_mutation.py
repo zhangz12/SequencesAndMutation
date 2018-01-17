@@ -147,7 +147,7 @@ def MUTATE_delete_negatives(numbers):
     #       See those solutions even if your approach passes the tests.
 
     for k in range(len(numbers)):
-        if numbers[k] < 0:
+        if numbers[k] < 0: 
 
 
 
